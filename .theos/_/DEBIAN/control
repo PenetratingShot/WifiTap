@@ -1,0 +1,10 @@
+Package: com.404meemr.wifitap
+Name: WifiTap
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tap on the wifi icon in the status bar to toggle WiFi on and off :D
+Maintainer: 404meemr
+Author: 404meemr
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 116
